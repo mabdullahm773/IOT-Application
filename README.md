@@ -1,16 +1,2 @@
-# iot
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# IOT
+A Flutter-based IoT application that provides an intuitive user interface for seamless interaction with IoT devices. The app allows users to monitor, control, and receive real-time updates from connected hardware, making IoT solutions accessible and user-friendly.
