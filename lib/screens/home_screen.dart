@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: const Color(0xFFF1F3F6),
       body: Column(
         children: [
-          const CustomAppBar(Title: "IoT Devices", BackButton: false,),
+          CustomAppBar(Title: "IoT Devices", BackButton: false, ProfileIcon: true,),
           Expanded(
             child: ListView.builder(
               padding: const EdgeInsets.all(16),
